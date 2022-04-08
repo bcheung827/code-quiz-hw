@@ -7,4 +7,4 @@ The purpose of this project is to create a code quiz using Javascript to have th
 -CSS
 -Javascript
 
-![assets\04-web-apis-homework-demo.gif](file:///C:/Users/bcheu/upenn-fs-repo/01-Activities/04-Web-APIs/02-Homework/Assets/04-web-apis-homework-demo.gif)
+![Code Quiz Demo](assets\04-web-apis-homework-demo.gif)
