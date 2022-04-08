@@ -9,4 +9,4 @@ The purpose of this project is to create a code quiz using Javascript to have th
 -CSS
 -Javascript
 
-![Code Quiz Demo](assets\04-web-apis-homework-demo.gif)
+![Code Quiz Demo](https://bcheung827.github.io/code-quiz-hw/)
